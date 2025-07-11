@@ -54,5 +54,3 @@ The model successfully identifies customers at risk of churning, enabling target
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
----
-*This project demonstrates end-to-end machine learning workflow for customer churn prediction in the telecommunications industry.*
